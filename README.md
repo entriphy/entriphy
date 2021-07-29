@@ -2,10 +2,11 @@
 I'm a CS student that codes stuff.<br>
 Contact information can be found at [t4ils.dev](https://t4ils.dev).
 
+![evilarceus's GitHub stats](https://github-readme-stats.vercel.app/api?username=evilarceus&show_icons=true&title_color=2196F3&bg_color=212121&text_color=FAFAFA&hide_border=true)
 
 ### Active Projects
 [StreamControl](https://play.google.com/store/apps/details?id=dev.t4ils.obs_remote): Remote control app for OBS and Streamlabs OBS for Android using Flutter.<br>
-[klonoa2-tools](https://github.com/evilarceus/klonoa2-tools): Reverse engineering the data format for the Playstation 2 game Klonoa 2: Lunatea's Veil.
+[klonoa2-tools](https://github.com/evilarceus/klonoa2-tools): Reverse engineering various things for the Playstation 2 game Klonoa 2: Lunatea's Veil.
 
 ### Previous Projects
 [Spotify Playcount](https://github.com/evilarceus/sp-playcount-librespot): Web API that returned information that could only be retrieved through Spotify's Hermes protocol in the desktop app. Spotify's HTTP API includes this info now, so this is not really needed anymore.<br>
