@@ -13,7 +13,3 @@ Contact information can be found at [t4ils.dev](https://t4ils.dev).
 [node-openrgb](https://github.com/evilarceus/node-openrgb): Reverse engineering the protocol for the NZXT HUE+ and NZXT Smart Device. Not to be confused with [OpenRGB](https://gitlab.com/CalcProgrammer1/OpenRGB).<br>
 [LineageOS Port for Galaxy S5 Sport](https://github.com/evilarceus/android_device_samsung_kltesprsports): Since the device was very similar to the Galaxy S5 Sprint (`kltespr`), this was just basically renaming everything from the `kltespr` repository to make it compatible with `kltesprsports`. LineageOS started officially supporting the device a year or so later, but it is no longer maintained.<br>
 [Destiny 2 Soundboard](https://github.com/evilarceus/Destiny2-Soundboard): Soundboard of characters' voice lines from the game Destiny 2. Now maintained by [MadMikeyB](https://github.com/MadMikeyB/Destiny2-Soundboard).
-
-
-### Why is your username `evilarceus`?
-Dumb username I made when I was 7. Nowadays, I use `t4ils`, but I don't feel like changing it on GitHub.
