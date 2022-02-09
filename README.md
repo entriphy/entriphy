@@ -1,9 +1,9 @@
 ## Hi
 I'm a CS student that codes stuff.<br>
 Contact information can be found at [t4ils.dev](https://t4ils.dev).
-
+<!--
 ![entriphy's GitHub stats](https://github-readme-stats.vercel.app/api?username=entriphy&show_icons=true&title_color=2196F3&bg_color=212121&text_color=FAFAFA&hide_border=true)
-
+-->
 ### Active Projects
 [StreamControl](https://play.google.com/store/apps/details?id=dev.t4ils.obs_remote): Remote control app for OBS and Streamlabs OBS for Android using Flutter.<br>
 [klonoa2-tools](https://github.com/entriphy/klonoa2-tools): Reverse engineering various things for the Playstation 2 game Klonoa 2: Lunatea's Veil.
