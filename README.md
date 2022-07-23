@@ -1,6 +1,5 @@
 ## Hi
 I'm a computer science student that codes stuff.<br>
-Contact information can be found at [t4ils.dev](https://t4ils.dev).
 <!--
 ![entriphy's GitHub stats](https://github-readme-stats.vercel.app/api?username=entriphy&show_icons=true&title_color=2196F3&bg_color=212121&text_color=FAFAFA&hide_border=true)
 -->
