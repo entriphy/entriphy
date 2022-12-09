@@ -1,5 +1,7 @@
 ## Hi
 ![entriphy's GitHub stats](https://github-readme-stats.vercel.app/api?username=entriphy&show_icons=true&title_color=2196F3&bg_color=212121&text_color=FAFAFA&hide_border=true)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 ### Projects
 [StreamCtrl](https://play.google.com/store/apps/details?id=dev.t4ils.obs_remote): Remote control app for OBS and Streamlabs Desktop for Android using Flutter.<br>
 [KPRS_Mods](https://github.com/entriphy/KPRS_Mods): BepInEx mods/plugins for Klonoa Phantasy Reverie Series.<br>
